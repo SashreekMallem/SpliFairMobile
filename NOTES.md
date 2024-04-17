@@ -20,3 +20,14 @@
 
 ### Next Steps
 - Improve documentation
+
+## Development Notes - 2025-06-10
+
+### Recent Changes
+- Improved code structure
+
+### Observations
+- UI needs minor tweaks
+
+### Next Steps
+- Optimize performance
