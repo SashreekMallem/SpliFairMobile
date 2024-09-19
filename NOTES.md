@@ -75,3 +75,14 @@
 
 ### Next Steps
 - Add more features
+
+## Development Notes - 2025-06-10
+
+### Recent Changes
+- Improved code structure
+
+### Observations
+- Tests are passing
+
+### Next Steps
+- Improve documentation
