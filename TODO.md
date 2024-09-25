@@ -22,3 +22,15 @@
 
 ### Low Priority
 - [ ] Code cleanup
+
+## TODO Items - Updated 2025-06-10
+
+### High Priority
+- [ ] Add data validation
+- [ ] Update documentation
+
+### Medium Priority  
+- [ ] Add new features
+
+### Low Priority
+- [ ] Code cleanup
