@@ -34,3 +34,15 @@
 
 ### Low Priority
 - [ ] Code cleanup
+
+## TODO Items - Updated 2025-06-10
+
+### High Priority
+- [ ] Optimize performance
+- [ ] Update documentation
+
+### Medium Priority  
+- [ ] Add new features
+
+### Low Priority
+- [ ] Improve styling
