@@ -46,3 +46,15 @@
 
 ### Low Priority
 - [ ] Improve styling
+
+## TODO Items - Updated 2025-06-10
+
+### High Priority
+- [ ] Optimize performance
+- [ ] Enhance security
+
+### Medium Priority  
+- [ ] Optimize database queries
+
+### Low Priority
+- [ ] Improve styling
