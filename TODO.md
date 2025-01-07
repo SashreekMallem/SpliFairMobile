@@ -58,3 +58,15 @@
 
 ### Low Priority
 - [ ] Improve styling
+
+## TODO Items - Updated 2025-06-10
+
+### High Priority
+- [ ] Implement user authentication
+- [ ] Enhance security
+
+### Medium Priority  
+- [ ] Refactor legacy code
+
+### Low Priority
+- [ ] Update comments
