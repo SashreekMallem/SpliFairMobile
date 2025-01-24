@@ -82,3 +82,15 @@
 
 ### Low Priority
 - [ ] Add animations
+
+## TODO Items - Updated 2025-06-10
+
+### High Priority
+- [ ] Add data validation
+- [ ] Improve accessibility
+
+### Medium Priority  
+- [ ] Optimize database queries
+
+### Low Priority
+- [ ] Improve styling
