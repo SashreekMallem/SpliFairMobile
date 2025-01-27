@@ -94,3 +94,15 @@
 
 ### Low Priority
 - [ ] Improve styling
+
+## TODO Items - Updated 2025-06-10
+
+### High Priority
+- [ ] Implement user authentication
+- [ ] Add unit tests
+
+### Medium Priority  
+- [ ] Update UI components
+
+### Low Priority
+- [ ] Improve styling
