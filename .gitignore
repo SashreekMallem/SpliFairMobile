@@ -63,3 +63,5 @@ Thumbs.db
 Thumbs.db
 
 # Build files
+
+*.log
