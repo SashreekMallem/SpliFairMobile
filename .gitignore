@@ -67,3 +67,5 @@ Thumbs.db
 *.log
 
 # OS files
+
+.env
