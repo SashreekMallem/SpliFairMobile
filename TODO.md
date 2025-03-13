@@ -106,3 +106,15 @@
 
 ### Low Priority
 - [ ] Improve styling
+
+## TODO Items - Updated 2025-06-10
+
+### High Priority
+- [ ] Add data validation
+- [ ] Improve accessibility
+
+### Medium Priority  
+- [ ] Update UI components
+
+### Low Priority
+- [ ] Update comments
