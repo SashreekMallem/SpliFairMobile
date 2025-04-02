@@ -163,7 +163,7 @@ const HomeScreen = ({ navigation }) => {
         </View>
         <TouchableOpacity 
           style={styles.profileButton} 
-          onPress={() => navigation.navigate('Profile')}
+          onPress={() => navigation.navigate('ProfileScreen')} // Ensure the name matches the registered screen
         >
           <Ionicons name="person-circle" size={40} color="#3B82F6" />
         </TouchableOpacity>

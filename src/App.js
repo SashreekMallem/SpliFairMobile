@@ -67,22 +67,15 @@ export default function App() {
     <SafeAreaProvider>
       <NavigationContainer>
         <Stack.Navigator 
-          screenOptions={{ 
+          screenOptions={{
             headerShown: false,
-            gestureEnabled: false,
-            headerLargeTitle: false, // Ensure this is explicitly set to avoid issues
-            cardStyle: { backgroundColor: '#F3F4F6' }, // Ensure valid numeric values
+            cardStyle: { backgroundColor: '#F3F4F6' }
           }}
         >
-          {userSession ? (
-            <Stack.Screen name="MainTabs" component={MainTabNavigator} />
-          ) : (
-            <>
-              <Stack.Screen name="Login" component={LoginScreen} />
-              <Stack.Screen name="Register" component={RegisterScreen} />
-              <Stack.Screen name="ForgotPassword" component={ForgotPasswordScreen} />
-            </>
-          )}
+          <Stack.Screen name="MainTabs" component={MainTabNavigator} />
+          <Stack.Screen name="Login" component={LoginScreen} />
+          <Stack.Screen name="Register" component={RegisterScreen} />
+          <Stack.Screen name="ForgotPassword" component={ForgotPasswordScreen} />
         </Stack.Navigator>
       </NavigationContainer>
     </SafeAreaProvider>

@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import { Alert } from 'react-native';
+import { Alert, Text } from 'react-native';
 import { supabase } from '../utils/supabaseClient';
 
 // Create the auth context
@@ -121,7 +121,7 @@ export const AuthProvider = ({ children }) => {
 
   return (
     <AuthContext.Provider value={value}>
-      {children}
+      {loading ? <Text>Loading...</Text> : children} {/* Wrap plain text in <Text> */}
     </AuthContext.Provider>
   );
 };
