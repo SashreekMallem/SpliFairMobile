@@ -118,3 +118,15 @@
 
 ### Low Priority
 - [ ] Update comments
+
+## TODO Items - Updated 2025-06-10
+
+### High Priority
+- [ ] Add data validation
+- [ ] Enhance security
+
+### Medium Priority  
+- [ ] Add new features
+
+### Low Priority
+- [ ] Update comments
